@@ -47,7 +47,7 @@
     "@babel/preset-env": "^7.8.6",
     "babel-loader": "^8.0.5",
     "mini-css-extract-plugin": "^0.9.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "vue2-ace-editor": "^0.0.15",
     "vuepress-theme-carbon": "^1.0.0"
